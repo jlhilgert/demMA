@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(Dict)
+import(dplyr)
+import(countrycode)
+import(xlsx)
+import(readxl)
